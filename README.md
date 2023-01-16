@@ -6,7 +6,7 @@ This repository contains the `R` code for the analyses reported in
 
 ## Data
 
-The data can be downloaded from The University of Birmingham Institutional Research Archive (UBIRA) at \<Link\>. Once downloaded, please place the .csv files in the folder named `Data`. 
+The data can be downloaded from The University of Birmingham Institutional Research Archive (UBIRA) at https://doi.org/10.25500/edata.bham.00000911. Once downloaded, please place the .csv files in the folder named `Data`. 
 
 `Data_train.csv` and `Data_test.csv` contains the data generated from the training and test phases of the language learning task. `Data_WM.csv`, `Data_SRT.csv` and `Demographics.csv` contains the data generated from the working memory task, implicit learning task and the demographic questionnaire, respectively. `events_abstract.csv` encodes the 29 abstract events used in the test phase and is needed for the analysis that compares the different learning strategies (see the section "Comparison_strategies" below).
 
