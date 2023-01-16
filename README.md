@@ -34,5 +34,5 @@ This is to replicate the results reported in the "Relationship between model-fit
 
 ## Contributors
 
-This package was written by Adnane Ez-zizi. Petar Milin provided the implementation of the Rescorla-Wagner algorithm (`all_learning.R`).
+This package was written by Adnane Ez-zizi. Petar Milin provided the implementation of the Rescorla-Wagner algorithm (`all_learning.R`) and checked code consistency throughout the package.
 
